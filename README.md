@@ -43,6 +43,8 @@ A personal API key comes with a free subscription to [Weather Underground](https
 
 To personalize the URL, a few specs need to change.
 
+`http://api.wunderground.com/api/ad8ef392afe1e78f/conditions/q/IL/pws:KILMORRI2.json`
+
 1. `ad8ef392afe1e78f` needs to change to your personal API key.
 2. `IL` needs to change to your home state code.
 3. `pws:KILMORRI2` needs to change to your local weather station code.
