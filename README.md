@@ -39,4 +39,12 @@ In the line example above, `UV` data is rendered to the display thru the path `r
 
 A personal API key comes with a free subscription to [Weather Underground](https://www.wunderground.com/). Usage limits apply.
 
+## Personalize URL
+
+To personalize the URL, a few specs need to change.
+
+1. `ad8ef392afe1e78f` needs to change to your personal API key.
+2. `IL` needs to change to your home state code.
+3. `pws:KILMORRI2` needs to change to your local weather station code.
+
 [example]: example.png "Weather App Example"
