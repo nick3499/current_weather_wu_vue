@@ -49,4 +49,6 @@ To personalize the URL, a few specs need to change.
 2. `IL` needs to change to your home state code.
 3. `pws:KILMORRI2` needs to change to your local weather station code.
 
+It would also be good practice to create three variables for them, and concatenate them into the URL.
+
 [example]: example.png "Weather App Example"
