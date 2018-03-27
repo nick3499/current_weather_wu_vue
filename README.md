@@ -1,6 +1,6 @@
 # current_weather_wu_vue
 
-Current weather conditions data is requested from [Weather Underground API](https://www.wunderground.com/weather/api/) through the [axios](https://www.npmjs.com/package/axios) http requests client. The browser gets the weather data in JSON format which `axios` also parses that JSON. The Web interface is then rendered by [vue.js](https://vuejs.org/). See example image below.
+Current weather conditions data is requested from [Weather Underground API](https://www.wunderground.com/weather/api/) through the [axios](https://www.npmjs.com/package/axios) http requests client. The browser gets the weather data in JSON format. `axios` also parses that JSON. The Web interface is then rendered by [vue.js](https://vuejs.org/). See example image below.
 
 ## Example Image
 
@@ -49,6 +49,6 @@ To personalize the URL, a few specs need to change.
 2. `IL` needs to change to your home state code.
 3. `pws:KILMORRI2` needs to change to your local weather station code.
 
-It would also be good practice to create three variables for them, and concatenate them into the URL.
+It would also be good practice to create three variables for URL concatenation and insertion.
 
 [example]: example.png "Weather App Example"
