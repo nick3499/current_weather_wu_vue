@@ -2,6 +2,8 @@
 
 Current weather conditions data is requested from [Weather Underground API](https://www.wunderground.com/weather/api/) through the [axios](https://www.npmjs.com/package/axios) http requests client. The browser gets the weather data in JSON format. `axios` also parses that JSON. The Web interface is then rendered by [vue.js](https://vuejs.org/). See example image below.
 
+**Note**: Weather Underground no longer provides free weather API keys!
+
 ## Example Image
 
 ![example]
