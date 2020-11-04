@@ -54,3 +54,5 @@ To personalize the URL, a few specs need to change.
 It would also be good practice to create three variables for URL concatenation and insertion.
 
 [example]: example.png "Weather App Example"
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
